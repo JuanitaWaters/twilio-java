@@ -1,12 +1,12 @@
-<!--
-If this is a feature request, make sure you search Issues for an existing request before creating a new one!
+<*--
+If this is a feature request, make sure you search Issues for an existing request before creating a new one 
 
 Please utilize the template below to help us resolve your issue.
 
 Note that many issues can be resolved by updating to the latest version.
 -->
 
-### Issue Summary
+*## Issue Summary
 A summary of the issue and the environment in which it occurs. If suitable, include the steps required to reproduce the bug. Please feel free to include screenshots, screencasts, or code examples.
 
 ### Steps to Reproduce
@@ -28,3 +28,4 @@ A summary of the issue and the environment in which it occurs. If suitable, incl
 * twilio-java version: 
 * java version:
 
+ 
